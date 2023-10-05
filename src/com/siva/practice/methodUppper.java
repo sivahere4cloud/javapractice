@@ -1,0 +1,10 @@
+package com.siva.practice;
+
+public class methodUppper {
+    public int sum(int a,int b){
+        return a+b;
+    }
+    public int sum(int a,int b,int c){
+        return a+b+c;
+    }
+}
